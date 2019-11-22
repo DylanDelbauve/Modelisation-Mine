@@ -1,5 +1,6 @@
 package Etats;
 
+// Sauvegarde le taux d'alcoolémie et le temps passé
 public class Memoire {
     private double alcoolemie = 0;
     private int temps = 0;
